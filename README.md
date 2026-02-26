@@ -6,7 +6,7 @@ Proyecto de desarrollo de software orientado a la solución empresarial "Emprend
 
 ## Estructura del Proyecto
 
-### **Avances 1/**
+### **Avances 1**
 Documentación del primer avance del proyecto.
 
 **Contenido:**
@@ -14,7 +14,7 @@ Documentación del primer avance del proyecto.
 
 ---
 
-### **Avances 2/**
+### **Avances 2**
 Documentación del segundo avance del proyecto.
 
 **Contenido:**
@@ -22,7 +22,7 @@ Documentación del segundo avance del proyecto.
 
 ---
 
-### **Corte 1/**
+### **Corte 1**
 Entregables del primer corte de calificación.
 
 **Contenido:**
@@ -30,7 +30,7 @@ Entregables del primer corte de calificación.
 
 ---
 
-### **Corte 2/**
+### **Corte 2**
 Entregables del segundo corte de calificación.
 
 **Contenido:**
@@ -38,7 +38,7 @@ Entregables del segundo corte de calificación.
 
 ---
 
-### **SCRUM/**
+### **SCRUM**
 Documentación y artefactos relacionados con la metodología SCRUM.
 
 **Contenido:**
